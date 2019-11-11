@@ -1,3 +1,3 @@
-# Practice - Libraries
+# Projects
 
-Practicing various Python Libraries with some mini tasks/projects
+Some mini tasks/projects/POCs related to ml and nlp
