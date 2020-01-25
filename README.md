@@ -1,3 +1,3 @@
 # Projects
 
-Some mini tasks/projects/POCs related to ml and nlp
+Projects/POCs related to natural language processing
